@@ -1,0 +1,128 @@
+{
+  "document": {
+    "model": {
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "mean": [
+        0.041773865944482055,
+        0.5722748815165877,
+        0.08593996840442333,
+        0.14361189845695344,
+        0.01990132858231137,
+        0.07744147984945741,
+        0.13337219803134,
+        0.5338949926920256,
+        0.29931166779508056,
+        0.04124282953704435
+      ],
+      "scale": [
+        0.03596964387827552,
+        0.3791691344202793,
+        0.10796259849223445,
+        0.18893368826722765,
+        0.04895248811766566,
+        0.1074916849426486,
+        0.17942533795630175,
+        0.167500633375426,
+        0.08214786370007716,
+        0.06683894168655265
+      ],
+      "coef": [
+        0.0,
+        1.2589375357396155,
+        -0.3761198800526039,
+        -1.2322315220234599,
+        0.5931504241904575,
+        -1.0205676640270962,
+        0.3821551402789416,
+        -1.299453511954102,
+        0.0,
+        0.0,
+        -0.13630349806301822
+      ],
+      "lambda": 0.0012658227848101266
+    },
+    "encoding": "raw"
+  },
+  "checks": {
+    "success": true,
+    "iterations": 9,
+    "objective": 0.001966519628233176,
+    "initial_objective": 1.5671014526216058,
+    "KKT_stationarity": 4.651227319962814e-16,
+    "KKT_complementarity": 4.2534607020975584e-14,
+    "constraint_min": -1.1102230246251565e-15,
+    "group_weights": [
+      0.8436693192805047,
+      0.09583674206606436,
+      0.060493938653430814
+    ],
+    "group_spans": [
+      0.006310701370239258,
+      0.000716865062713623,
+      0.0004524985949198035
+    ],
+    "reference_span": 0.002493355009290895,
+    "states": [
+      "mandl1-6-62611-search532-beforebatch3",
+      "mandl1-6-62612-search530-beforebatch3",
+      "mandl1-6-62612-search531-beforebatch3"
+    ],
+    "coefficient_change_l2": 1.2464150617952525,
+    "lambda": 0.0012658227848101266,
+    "regularizer": "lambda * squared distance to frozen prior coefficients"
+  },
+  "fit_seconds": 0.0014126000000000971,
+  "training_phase_seconds": 0.11614320000000022,
+  "import_seconds": 3.8715752,
+  "source_sha256": "c4b670768a76ff282c251538c904331577a57528cc77f9e9a84d26a2fd5526c2",
+  "old_training_regret": [
+    {
+      "state": "mandl1-6-62611-search532-beforebatch3",
+      "choice": 2,
+      "regret": 0.005149443944295284
+    },
+    {
+      "state": "mandl1-6-62612-search530-beforebatch3",
+      "choice": 2,
+      "regret": 0.0
+    },
+    {
+      "state": "mandl1-6-62612-search531-beforebatch3",
+      "choice": 4,
+      "regret": 0.0
+    }
+  ],
+  "new_training_regret": [
+    {
+      "state": "mandl1-6-62611-search532-beforebatch3",
+      "choice": 5,
+      "regret": 0.0
+    },
+    {
+      "state": "mandl1-6-62612-search530-beforebatch3",
+      "choice": 2,
+      "regret": 0.0
+    },
+    {
+      "state": "mandl1-6-62612-search531-beforebatch3",
+      "choice": 4,
+      "regret": 0.0
+    }
+  ],
+  "training_states": 3,
+  "training_tasks": 18,
+  "confirmation_labels_used": false,
+  "new_test_outcomes_seen": false,
+  "Mandl_only": true
+}

@@ -1,0 +1,82 @@
+{
+  "dimensions_mm": [
+    180,
+    112
+  ],
+  "chart_type": "stepwise convergence + paired zero-anchored lollipop",
+  "paired_seed_count": 10,
+  "endpoints": [
+    "120s",
+    "8round"
+  ],
+  "seed_sort": "numeric ascending",
+  "absolute_gains": [
+    [
+      0.15123999118804932,
+      -0.013065576553344727
+    ],
+    [
+      0.13915979862213157,
+      0.11293268203735352
+    ],
+    [
+      0.06013011932373047,
+      0.0037038326263429955
+    ],
+    [
+      0.26307940483093284,
+      0.024527311325073242
+    ],
+    [
+      0.26018834114074707,
+      0.1327453851699827
+    ],
+    [
+      0.3052065372467041,
+      0.014768958091735618
+    ],
+    [
+      0.15287816524505593,
+      0.013110756874084473
+    ],
+    [
+      0.12655365467071533,
+      -0.0064356327056884766
+    ],
+    [
+      0.23385775089263916,
+      0.005725502967834473
+    ],
+    [
+      0.3744490146636963,
+      -0.0030078887939453125
+    ]
+  ],
+  "mean_absolute_gains": [
+    0.20667427778244019,
+    0.02850053310394285
+  ],
+  "summary": {
+    "120s": {
+      "percent": 13.73006039799645,
+      "wins": 10,
+      "ties": 0,
+      "losses": 0
+    },
+    "8round": {
+      "percent": 2.45991066611079,
+      "wins": 7,
+      "ties": 0,
+      "losses": 3
+    }
+  },
+  "outside_text": [],
+  "source_sha256": {
+    "checkpoints.csv": "4ec216d4ea7f17fcabb5907a4c7626af6f41a7f26b2a1bfa49ba89aea533903f",
+    "figure3_curve_candidates.csv": "de02526c81b29aa0d3b6e818d02511f9586c41b02fdeb98c25ee19363a75c631",
+    "figure3_design_evidence.json": "9b5f26826ecf96b9ed5cbec947011944df4027ccddadba13f1c5e6ce9fd84f74",
+    "figure3_paired_endpoints.csv": "8adff68c061f7980c89c670808048882bb75fca4329368bd6e116ecf056787a0",
+    "plotted_paired_gains.csv": "ccd5c75bd9248da9ec2f632daab52cee53bcd4a3f1bb91705c6bf93ebd9f9076"
+  },
+  "checkpoint_source_sha256": "4ec216d4ea7f17fcabb5907a4c7626af6f41a7f26b2a1bfa49ba89aea533903f"
+}

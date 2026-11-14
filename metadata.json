@@ -1,0 +1,47 @@
+{
+  "title": "PORA: data and code for prior-guided online reconstruction allocation",
+  "version": "v1.0.0",
+  "date": "2026-11-14",
+  "related_manuscript": "Prior-guided online allocation of route-reconstruction tasks for transit network improvement",
+  "creators": [
+    "Ziming Shu",
+    "Xiaoshan Li",
+    "Yue Zhang",
+    "Yanhong Gu"
+  ],
+  "repository": "https://github.com/Katrina519/PORA-transit-reconstruction",
+  "keywords": [
+    "transit network design",
+    "decision-focused learning",
+    "online allocation",
+    "PORA"
+  ],
+  "data_license": "CC-BY-4.0",
+  "code_license": "GPL-3.0",
+  "upstream_code": "https://github.com/AHolliday/transit_learning",
+  "upstream_paper_doi": "10.1080/21680566.2025.2561863",
+  "manuscript_frozen_mumford1_improvement_percent": {
+    "120s": 13.73006039799645,
+    "8round": 2.45991066611079
+  },
+  "ablation_reported_seeds": [
+    3011,
+    3015,
+    3016,
+    3017,
+    3019,
+    3020
+  ],
+  "ablation_complete_archived_seeds": [
+    3011,
+    3012,
+    3013,
+    3014,
+    3015,
+    3016,
+    3017,
+    3018,
+    3019,
+    3020
+  ]
+}

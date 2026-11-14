@@ -1,0 +1,44 @@
+{
+  "status": "FINAL",
+  "dimensions_mm": [
+    180,
+    112
+  ],
+  "text_overlaps": [],
+  "outside_text": [],
+  "font_names": [
+    "BIWFUN+TimesNewRomanPSMT",
+    "BIWFUN+TimesNewRomanPS-BoldMT"
+  ],
+  "minimum_font_pt": 6.800000190734863,
+  "font_embedding": true,
+  "svg_editable_text": true,
+  "source_data_and_all_numerical_results_identical": true,
+  "gain_colormap_and_sizes_unchanged": true,
+  "footer_background": "#EEF1F5",
+  "footer_percentages": "#4D948D",
+  "footer_dividers": "#CDD4DE",
+  "panel_letters_absent": true,
+  "summary": {
+    "120s": {
+      "percent": 13.73006039799645,
+      "wins": 10,
+      "ties": 0,
+      "losses": 0
+    },
+    "8round": {
+      "percent": 2.45991066611079,
+      "wins": 7,
+      "ties": 0,
+      "losses": 3
+    }
+  },
+  "visual_check_pending": false,
+  "visual_check_passed": true,
+  "reduced_180mm_check_passed": true,
+  "footer_background_sample_rgb": [
+    238,
+    241,
+    245
+  ]
+}

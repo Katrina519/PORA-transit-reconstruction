@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this versioned research data and code release."
+title: "PORA: data and code for prior-guided online reconstruction allocation"
+version: 1.0.0
+date-released: 2026-11-14
+url: "https://github.com/Katrina519/PORA-transit-reconstruction/releases/tag/v1.0.0"
+authors:
+  - family-names: Shu
+    given-names: Ziming
+  - family-names: Li
+    given-names: Xiaoshan
+  - family-names: Zhang
+    given-names: Yue
+  - family-names: Gu
+    given-names: Yanhong

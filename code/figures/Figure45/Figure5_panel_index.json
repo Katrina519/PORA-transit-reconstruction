@@ -1,0 +1,386 @@
+[
+  {
+    "page": 1,
+    "panel": "a",
+    "city": "mandl",
+    "parent": "mandl1-6-62811",
+    "seed": 2001,
+    "points": 30
+  },
+  {
+    "page": 1,
+    "panel": "b",
+    "city": "mandl",
+    "parent": "mandl1-6-62812",
+    "seed": 2001,
+    "points": 30
+  },
+  {
+    "page": 1,
+    "panel": "c",
+    "city": "mandl",
+    "parent": "mandl1-6-62813",
+    "seed": 2001,
+    "points": 29
+  },
+  {
+    "page": 1,
+    "panel": "d",
+    "city": "mandl",
+    "parent": "mandl1-6-62814",
+    "seed": 2001,
+    "points": 41
+  },
+  {
+    "page": 1,
+    "panel": "e",
+    "city": "mandl",
+    "parent": "mandl1-6-62811",
+    "seed": 2002,
+    "points": 32
+  },
+  {
+    "page": 1,
+    "panel": "f",
+    "city": "mandl",
+    "parent": "mandl1-6-62812",
+    "seed": 2002,
+    "points": 32
+  },
+  {
+    "page": 1,
+    "panel": "g",
+    "city": "mandl",
+    "parent": "mandl1-6-62813",
+    "seed": 2002,
+    "points": 29
+  },
+  {
+    "page": 1,
+    "panel": "h",
+    "city": "mandl",
+    "parent": "mandl1-6-62814",
+    "seed": 2002,
+    "points": 30
+  },
+  {
+    "page": 1,
+    "panel": "i",
+    "city": "mandl",
+    "parent": "mandl1-6-62811",
+    "seed": 2004,
+    "points": 34
+  },
+  {
+    "page": 1,
+    "panel": "j",
+    "city": "mandl",
+    "parent": "mandl1-6-62812",
+    "seed": 2004,
+    "points": 35
+  },
+  {
+    "page": 1,
+    "panel": "k",
+    "city": "mandl",
+    "parent": "mandl1-6-62813",
+    "seed": 2004,
+    "points": 24
+  },
+  {
+    "page": 1,
+    "panel": "l",
+    "city": "mandl",
+    "parent": "mandl1-6-62814",
+    "seed": 2004,
+    "points": 31
+  },
+  {
+    "page": 1,
+    "panel": "m",
+    "city": "mumford0",
+    "parent": "mumford0-12-62811",
+    "seed": 2000,
+    "points": 42
+  },
+  {
+    "page": 1,
+    "panel": "n",
+    "city": "mumford0",
+    "parent": "mumford0-12-62812",
+    "seed": 2000,
+    "points": 41
+  },
+  {
+    "page": 1,
+    "panel": "o",
+    "city": "mumford0",
+    "parent": "mumford0-12-62813",
+    "seed": 2000,
+    "points": 38
+  },
+  {
+    "page": 1,
+    "panel": "p",
+    "city": "mumford0",
+    "parent": "mumford0-12-62814",
+    "seed": 2000,
+    "points": 35
+  },
+  {
+    "page": 1,
+    "panel": "q",
+    "city": "mumford0",
+    "parent": "mumford0-12-62811",
+    "seed": 2001,
+    "points": 40
+  },
+  {
+    "page": 1,
+    "panel": "r",
+    "city": "mumford0",
+    "parent": "mumford0-12-62812",
+    "seed": 2001,
+    "points": 39
+  },
+  {
+    "page": 1,
+    "panel": "s",
+    "city": "mumford0",
+    "parent": "mumford0-12-62813",
+    "seed": 2001,
+    "points": 33
+  },
+  {
+    "page": 1,
+    "panel": "t",
+    "city": "mumford0",
+    "parent": "mumford0-12-62814",
+    "seed": 2001,
+    "points": 43
+  },
+  {
+    "page": 1,
+    "panel": "u",
+    "city": "mumford0",
+    "parent": "mumford0-12-62811",
+    "seed": 2003,
+    "points": 38
+  },
+  {
+    "page": 1,
+    "panel": "v",
+    "city": "mumford0",
+    "parent": "mumford0-12-62812",
+    "seed": 2003,
+    "points": 41
+  },
+  {
+    "page": 1,
+    "panel": "w",
+    "city": "mumford0",
+    "parent": "mumford0-12-62813",
+    "seed": 2003,
+    "points": 38
+  },
+  {
+    "page": 1,
+    "panel": "x",
+    "city": "mumford0",
+    "parent": "mumford0-12-62814",
+    "seed": 2003,
+    "points": 43
+  },
+  {
+    "page": 2,
+    "panel": "a",
+    "city": "mandl",
+    "parent": "mandl1-6-62811",
+    "seed": 2005,
+    "points": 33
+  },
+  {
+    "page": 2,
+    "panel": "b",
+    "city": "mandl",
+    "parent": "mandl1-6-62812",
+    "seed": 2005,
+    "points": 35
+  },
+  {
+    "page": 2,
+    "panel": "c",
+    "city": "mandl",
+    "parent": "mandl1-6-62813",
+    "seed": 2005,
+    "points": 20
+  },
+  {
+    "page": 2,
+    "panel": "d",
+    "city": "mandl",
+    "parent": "mandl1-6-62814",
+    "seed": 2005,
+    "points": 28
+  },
+  {
+    "page": 2,
+    "panel": "e",
+    "city": "mandl",
+    "parent": "mandl1-6-62811",
+    "seed": 2006,
+    "points": 32
+  },
+  {
+    "page": 2,
+    "panel": "f",
+    "city": "mandl",
+    "parent": "mandl1-6-62812",
+    "seed": 2006,
+    "points": 31
+  },
+  {
+    "page": 2,
+    "panel": "g",
+    "city": "mandl",
+    "parent": "mandl1-6-62813",
+    "seed": 2006,
+    "points": 23
+  },
+  {
+    "page": 2,
+    "panel": "h",
+    "city": "mandl",
+    "parent": "mandl1-6-62814",
+    "seed": 2006,
+    "points": 33
+  },
+  {
+    "page": 2,
+    "panel": "i",
+    "city": "mandl",
+    "parent": "mandl1-6-62811",
+    "seed": 2008,
+    "points": 37
+  },
+  {
+    "page": 2,
+    "panel": "j",
+    "city": "mandl",
+    "parent": "mandl1-6-62812",
+    "seed": 2008,
+    "points": 29
+  },
+  {
+    "page": 2,
+    "panel": "k",
+    "city": "mandl",
+    "parent": "mandl1-6-62813",
+    "seed": 2008,
+    "points": 21
+  },
+  {
+    "page": 2,
+    "panel": "l",
+    "city": "mandl",
+    "parent": "mandl1-6-62814",
+    "seed": 2008,
+    "points": 31
+  },
+  {
+    "page": 2,
+    "panel": "m",
+    "city": "mumford0",
+    "parent": "mumford0-12-62811",
+    "seed": 2004,
+    "points": 40
+  },
+  {
+    "page": 2,
+    "panel": "n",
+    "city": "mumford0",
+    "parent": "mumford0-12-62812",
+    "seed": 2004,
+    "points": 41
+  },
+  {
+    "page": 2,
+    "panel": "o",
+    "city": "mumford0",
+    "parent": "mumford0-12-62813",
+    "seed": 2004,
+    "points": 31
+  },
+  {
+    "page": 2,
+    "panel": "p",
+    "city": "mumford0",
+    "parent": "mumford0-12-62814",
+    "seed": 2004,
+    "points": 43
+  },
+  {
+    "page": 2,
+    "panel": "q",
+    "city": "mumford0",
+    "parent": "mumford0-12-62811",
+    "seed": 2008,
+    "points": 42
+  },
+  {
+    "page": 2,
+    "panel": "r",
+    "city": "mumford0",
+    "parent": "mumford0-12-62812",
+    "seed": 2008,
+    "points": 45
+  },
+  {
+    "page": 2,
+    "panel": "s",
+    "city": "mumford0",
+    "parent": "mumford0-12-62813",
+    "seed": 2008,
+    "points": 35
+  },
+  {
+    "page": 2,
+    "panel": "t",
+    "city": "mumford0",
+    "parent": "mumford0-12-62814",
+    "seed": 2008,
+    "points": 41
+  },
+  {
+    "page": 2,
+    "panel": "u",
+    "city": "mumford0",
+    "parent": "mumford0-12-62811",
+    "seed": 2009,
+    "points": 43
+  },
+  {
+    "page": 2,
+    "panel": "v",
+    "city": "mumford0",
+    "parent": "mumford0-12-62812",
+    "seed": 2009,
+    "points": 39
+  },
+  {
+    "page": 2,
+    "panel": "w",
+    "city": "mumford0",
+    "parent": "mumford0-12-62813",
+    "seed": 2009,
+    "points": 35
+  },
+  {
+    "page": 2,
+    "panel": "x",
+    "city": "mumford0",
+    "parent": "mumford0-12-62814",
+    "seed": 2009,
+    "points": 41
+  }
+]

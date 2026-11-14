@@ -1,0 +1,92 @@
+[
+  {
+    "seed": 3011,
+    "distinct_parents": 81,
+    "selections_per_parent": 4.938271604938271,
+    "distinct_parent_route_tasks": 229,
+    "task_coverage": 0.18847736625514402,
+    "feasible_proposals": 390,
+    "positive_proposals": 130
+  },
+  {
+    "seed": 3012,
+    "distinct_parents": 114,
+    "selections_per_parent": 3.508771929824561,
+    "distinct_parent_route_tasks": 284,
+    "task_coverage": 0.16608187134502925,
+    "feasible_proposals": 393,
+    "positive_proposals": 169
+  },
+  {
+    "seed": 3013,
+    "distinct_parents": 109,
+    "selections_per_parent": 3.669724770642202,
+    "distinct_parent_route_tasks": 271,
+    "task_coverage": 0.1657492354740061,
+    "feasible_proposals": 394,
+    "positive_proposals": 182
+  },
+  {
+    "seed": 3014,
+    "distinct_parents": 74,
+    "selections_per_parent": 5.405405405405405,
+    "distinct_parent_route_tasks": 233,
+    "task_coverage": 0.2099099099099099,
+    "feasible_proposals": 384,
+    "positive_proposals": 118
+  },
+  {
+    "seed": 3015,
+    "distinct_parents": 107,
+    "selections_per_parent": 3.7383177570093458,
+    "distinct_parent_route_tasks": 265,
+    "task_coverage": 0.16510903426791276,
+    "feasible_proposals": 371,
+    "positive_proposals": 161
+  },
+  {
+    "seed": 3016,
+    "distinct_parents": 105,
+    "selections_per_parent": 3.8095238095238093,
+    "distinct_parent_route_tasks": 253,
+    "task_coverage": 0.16063492063492063,
+    "feasible_proposals": 390,
+    "positive_proposals": 148
+  },
+  {
+    "seed": 3017,
+    "distinct_parents": 93,
+    "selections_per_parent": 4.301075268817204,
+    "distinct_parent_route_tasks": 239,
+    "task_coverage": 0.17132616487455196,
+    "feasible_proposals": 399,
+    "positive_proposals": 146
+  },
+  {
+    "seed": 3018,
+    "distinct_parents": 89,
+    "selections_per_parent": 4.49438202247191,
+    "distinct_parent_route_tasks": 257,
+    "task_coverage": 0.19250936329588014,
+    "feasible_proposals": 396,
+    "positive_proposals": 145
+  },
+  {
+    "seed": 3019,
+    "distinct_parents": 84,
+    "selections_per_parent": 4.761904761904762,
+    "distinct_parent_route_tasks": 257,
+    "task_coverage": 0.20396825396825397,
+    "feasible_proposals": 399,
+    "positive_proposals": 139
+  },
+  {
+    "seed": 3020,
+    "distinct_parents": 88,
+    "selections_per_parent": 4.545454545454546,
+    "distinct_parent_route_tasks": 223,
+    "task_coverage": 0.16893939393939394,
+    "feasible_proposals": 396,
+    "positive_proposals": 135
+  }
+]

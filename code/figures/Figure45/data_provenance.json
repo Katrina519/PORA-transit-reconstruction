@@ -1,0 +1,33 @@
+{
+  "fixed_time_seconds": {
+    "mandl": [
+      1.0,
+      2.0,
+      4.0
+    ],
+    "mumford0": [
+      1.75,
+      3.5,
+      7.0
+    ]
+  },
+  "n_pairs": 48,
+  "tie_tolerance_absolute": 1e-06,
+  "method": "PORA: SPO+ prior plus online gain allocation",
+  "sample_rule": "last completed recorded pass at or before cutoff; no interpolation",
+  "source_hashes": {
+    "C:\\Users\\m\\Desktop\\work\\nea_N24_two_sided_20261112_v1\\输入提取.json": "0b5cdda8be2ef8af15a0c5c7258c4e8cfd369b940a7501c15ac423271409dc51",
+    "C:\\Users\\m\\Desktop\\work\\mumford0_unified_online_excel_20261112_v1\\最终完美数据_N24对称版.xlsx": "a5c4d2d4197538712b554fb280a5758babb1e31a15991638d3e2c7d32ae75495",
+    "C:\\Users\\m\\Desktop\\work\\nea_frozen_multiseed_20261111_v1\\comparison\\原始运行.jsonl": "c1f2fe4fc51e0175a92cb59933ab5c42fd9f03eb3a8d93042743daf9d71fea8d",
+    "C:\\Users\\m\\Desktop\\work\\mumford0_unified_online_excel_20261112_v1\\原始运行.jsonl": "301bc2536d4551818cf055eff4874567d142128e9be473bce773272a483871e8",
+    "C:\\Users\\m\\Desktop\\work\\evaluation_alignment_20261103_v1\\check.py": "4b8d11e457927a3d790678fb1c1815be45c864874313f238033b726563b539ae",
+    "C:\\Users\\m\\Desktop\\work\\paper_code_learning_20261030_v1\\holliday\\inputs\\MandlTravelTimes.txt": "02277d9e8b043633e3645ac241baf8852e36a3cc221719cbf227fc9ea08c0078",
+    "C:\\Users\\m\\Desktop\\work\\paper_code_learning_20261030_v1\\holliday\\inputs\\MandlDemand.txt": "ade3258c972c3486df7d85bad2b354ad424c8eb6f7ecf8a2a6ec8695500343d9",
+    "C:\\Users\\m\\Desktop\\work\\paper_code_learning_20261030_v1\\dln\\author_source\\Codes and Instances\\Networks and Line plans\\Mumford0Network.txt": "2c7925cdb9bed891c5aca1d30b35d849eff40f7c6db6da3e3543b69f0bf02eb6",
+    "C:\\Users\\m\\Desktop\\work\\paper_code_learning_20261030_v1\\dln\\author_source\\Codes and Instances\\Networks and Line plans\\Mumford0Demand.txt": "a5d19f52bb7375c7365e4dd2489d1593129baeb169831e269cfa36d9c1bcc142"
+  },
+  "provenance_note": "Specified frozen N24 records for each network. Mumford0 uses updated Full/Ridge and historical NEA/Count batches; not a contemporaneous timing experiment. N24 records overlap the complete 40-run set.",
+  "matched_endpoints": 192,
+  "saved_points": 1677,
+  "unique_networks": 1416
+}

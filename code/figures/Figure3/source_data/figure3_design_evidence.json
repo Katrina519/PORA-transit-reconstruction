@@ -1,0 +1,127 @@
+{
+  "source_sha256": "4ec216d4ea7f17fcabb5907a4c7626af6f41a7f26b2a1bfa49ba89aea533903f",
+  "runs": 20,
+  "seeds": 10,
+  "checkpoints": 820,
+  "common_horizon_seconds": 400,
+  "primary_endpoint": "8 rounds",
+  "secondary_endpoint": "120 seconds",
+  "interpolation": "last completed pass, stepwise hold; no future point",
+  "curve_summary": [
+    {
+      "seconds": 60.0,
+      "method": "author",
+      "n": 10,
+      "mean": 2.2057687282562255,
+      "sd": 0.10763564208548063,
+      "q25": 2.1504906415939335,
+      "median": 2.2038031816482544,
+      "q75": 2.2828497886657715
+    },
+    {
+      "seconds": 60.0,
+      "method": "full",
+      "n": 10,
+      "mean": 2.0474272966384888,
+      "sd": 0.11690389735782844,
+      "q25": 1.9699464738368988,
+      "median": 2.092536687850952,
+      "q75": 2.1025503873825073
+    },
+    {
+      "seconds": 120.0,
+      "method": "author",
+      "n": 10,
+      "mean": 1.5052685260772705,
+      "sd": 0.08951869297031967,
+      "q25": 1.455337792634964,
+      "median": 1.5151029825210571,
+      "q75": 1.5746397972106934
+    },
+    {
+      "seconds": 120.0,
+      "method": "full",
+      "n": 10,
+      "mean": 1.2985942482948303,
+      "sd": 0.04627062642530608,
+      "q25": 1.3025810122489927,
+      "median": 1.3173581957817078,
+      "q75": 1.3251002728939056
+    },
+    {
+      "seconds": 240.0,
+      "method": "author",
+      "n": 10,
+      "mean": 1.2137810111045837,
+      "sd": 0.0524126169419165,
+      "q25": 1.1849202513694763,
+      "median": 1.1874289512634277,
+      "q75": 1.2651119828224182
+    },
+    {
+      "seconds": 240.0,
+      "method": "full",
+      "n": 10,
+      "mean": 1.1737648248672485,
+      "sd": 0.04326476143138975,
+      "q25": 1.1544764935970306,
+      "median": 1.1689655780792236,
+      "q75": 1.1734543144702911
+    },
+    {
+      "seconds": 400.0,
+      "method": "author",
+      "n": 10,
+      "mean": 1.1621844291687011,
+      "sd": 0.05045373201147301,
+      "q25": 1.1372315883636475,
+      "median": 1.1425184011459353,
+      "q75": 1.1449017524719238
+    },
+    {
+      "seconds": 400.0,
+      "method": "full",
+      "n": 10,
+      "mean": 1.132984185218811,
+      "sd": 0.014188427350085143,
+      "q25": 1.1284664869308472,
+      "median": 1.1343078017234802,
+      "q75": 1.138659954071045
+    }
+  ],
+  "endpoint_summary": [
+    {
+      "endpoint": "8round",
+      "n": 10,
+      "author_mean": 1.1586003303527832,
+      "full_mean": 1.1300997972488402,
+      "author_sd": 0.05076610535423019,
+      "full_sd": 0.013244633414055547,
+      "improvement_percent": 2.45991066611079,
+      "wins": 7,
+      "ties": 0,
+      "losses": 3,
+      "W": 10.0,
+      "p_two_sided": 0.083984375,
+      "nonzero": 10,
+      "method": "exact conditional signed-rank; zero differences removed; average ranks for ties"
+    },
+    {
+      "endpoint": "120s",
+      "n": 10,
+      "author_mean": 1.5052685260772705,
+      "full_mean": 1.2985942482948303,
+      "author_sd": 0.08951869297031967,
+      "full_sd": 0.046270626425306126,
+      "improvement_percent": 13.73006039799645,
+      "wins": 10,
+      "ties": 0,
+      "losses": 0,
+      "W": 0.0,
+      "p_two_sided": 0.001953125,
+      "nonzero": 10,
+      "method": "exact conditional signed-rank; zero differences removed; average ranks for ties"
+    }
+  ],
+  "artifact_status": "figure design evidence only; no figure replaced"
+}

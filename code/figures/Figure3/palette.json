@@ -1,0 +1,21 @@
+{
+  "basis": "first connected figure supplied again as reference",
+  "method": "Preserve HSV hue and value; multiply saturation by 0.60 for all eight original accent colors.",
+  "colors": {
+    "#4D948D": "#699490",
+    "#9892AA": "#9F9CAA",
+    "#D26862": "#D2928F",
+    "#AA4034": "#AA6A63",
+    "#E0A23A": "#E0BB7C",
+    "#A3B68F": "#ABB69F",
+    "#91AFB6": "#A0B2B6",
+    "#555D85": "#686D85"
+  },
+  "layout_font_data_footer_and_mapping_range": "unchanged from original connected version",
+  "footer_restore": {
+    "background": "#EEF1F5",
+    "percentage_emphasis": "#4D948D",
+    "dividers": "#CDD4DE",
+    "reference_colors_sampled_directly": true
+  }
+}

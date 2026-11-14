@@ -1,0 +1,34 @@
+[
+  {
+    "endpoint": "8round",
+    "n": 10,
+    "author_mean": 1.1586003303527832,
+    "full_mean": 1.1300997972488402,
+    "author_sd": 0.05076610535423019,
+    "full_sd": 0.013244633414055547,
+    "improvement_percent": 2.45991066611079,
+    "wins": 7,
+    "ties": 0,
+    "losses": 3,
+    "W": 10.0,
+    "p_two_sided": 0.083984375,
+    "nonzero": 10,
+    "method": "exact conditional signed-rank; zero differences removed; average ranks for ties"
+  },
+  {
+    "endpoint": "120s",
+    "n": 10,
+    "author_mean": 1.5052685260772705,
+    "full_mean": 1.2985942482948303,
+    "author_sd": 0.08951869297031967,
+    "full_sd": 0.046270626425306126,
+    "improvement_percent": 13.73006039799645,
+    "wins": 10,
+    "ties": 0,
+    "losses": 0,
+    "W": 0.0,
+    "p_two_sided": 0.001953125,
+    "nonzero": 10,
+    "method": "exact conditional signed-rank; zero differences removed; average ranks for ties"
+  }
+]
