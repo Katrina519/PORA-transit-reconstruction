@@ -43,5 +43,22 @@
     3018,
     3019,
     3020
-  ]
+  ],
+  "current_manuscript_records": {
+    "date": "2026-11-16",
+    "pairs_per_network": {
+      "mandl": 24,
+      "mumford0": 24,
+      "mumford1": 24
+    },
+    "path": "data/manuscript_24pairs",
+    "verification_script": "code/verify_24pair_records.py",
+    "record_check_status": "PASS_RECORD_CONSISTENCY",
+    "independent_rerun_provenance": "pending_original_logs",
+    "mumford1_mean_reduction_percent": {
+      "120s": 13.112997492797481,
+      "8round": 1.8131849546453487
+    },
+    "legacy_metadata_fields": "Original v1.0.0 snapshot, retained unchanged"
+  }
 }

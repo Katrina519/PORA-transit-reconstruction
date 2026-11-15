@@ -1,0 +1,22 @@
+[
+  {
+    "batch": "mumford1_unified_online_10pairs_20261112_v1",
+    "source_sha256": "2dac2db7b7c950f7e815c51b960f31b0a6f1d5ed19149f6a2828245c939b5397",
+    "environment": {
+      "python": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+      "torch": "1.12.1+cpu",
+      "threads": 1,
+      "cuda": false
+    }
+  },
+  {
+    "batch": "mumford1_three_starts_5methods_20261115_v1",
+    "source_sha256": "a3ec854f2698f09fa2eca991d129235d54ec791307090e7c9da7339d2b5c9232",
+    "environment": {
+      "python": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+      "torch": "1.12.1+cpu",
+      "threads": 1,
+      "cuda": false
+    }
+  }
+]

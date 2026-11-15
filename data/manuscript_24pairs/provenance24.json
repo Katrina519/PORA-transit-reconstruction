@@ -1,0 +1,19 @@
+{
+  "source_workbook_sha256": "81a2fc2cbb6e9fa204d36d380d0a7a6bea172aef19685f307a1e2891b725fa01",
+  "selected_pairs": 24,
+  "pairs_by_parent": {
+    "mumford1_new_01": 8,
+    "mumford1_new_02": 3,
+    "mumford1_new_03": 5,
+    "mumford1_reference_lineplan": 8
+  },
+  "main_pairs_by_batch": {
+    "new_3parents_20261115": 16.0,
+    "old_main_20261112": 8.0
+  },
+  "workbook_records_match_completed_40_pair_archive": true,
+  "reporting_cohort_selection_was_not_prespecified_in_frozen_30_pair_protocol": true,
+  "all_40_pair_records_retained_in_supporting_data": true,
+  "one_sided_and_holm_p_values_are_nominal_for_selected_cohort": true,
+  "not_evidence_of_24_fresh_independent_reruns": true
+}

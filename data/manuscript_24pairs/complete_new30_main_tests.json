@@ -1,0 +1,30 @@
+[
+  {
+    "endpoint": "8round",
+    "n": 30,
+    "nea_mean": 1.1459386547406514,
+    "full_mean": 1.13032116095225,
+    "improvement_percent": 1.3628560066276694,
+    "wins": 20,
+    "ties": 0,
+    "losses": 10,
+    "W_plus": 345.0,
+    "n_nonzero": 30,
+    "p_one_sided": 0.009830407798290253,
+    "p_two_sided": 0.019660815596580505
+  },
+  {
+    "endpoint": "120s",
+    "n": 30,
+    "nea_mean": 1.4072692473729451,
+    "full_mean": 1.241943097114563,
+    "improvement_percent": 11.748011303949749,
+    "wins": 28,
+    "ties": 0,
+    "losses": 2,
+    "W_plus": 462.0,
+    "n_nonzero": 30,
+    "p_one_sided": 4.6566128730773926e-09,
+    "p_two_sided": 9.313225746154785e-09
+  }
+]
