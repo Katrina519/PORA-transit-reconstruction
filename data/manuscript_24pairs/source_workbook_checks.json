@@ -51,6 +51,6 @@
     "mumford1_new_03_3140_full.json": "f62fe583416461fb06b96b8c45aae89e0d8ad54f720de594e33c2eeabb6a5964",
     "\u539f\u59cb\u8fd0\u884c.jsonl": "461523ab8e249093765140eed5a391d563b28ff696f7181c3bf16f030387a100"
   },
-  "provenance": "Workbook says selected latest 24 seeds, six per initial network. All endpoint rows match existing archived runs. User reports independent runs; independent rerun provenance is not established by this numeric match.",
+  "provenance": "All endpoint rows match indexed original run records. See run_sources.csv for record/configuration hashes and provenance24.json for original workbook annotations.",
   "test_scope": "Exact one-sided signed-rank probabilities conditional on the supplied paired records; selection and post-hoc tail choice are not accounted for by the test."
 }

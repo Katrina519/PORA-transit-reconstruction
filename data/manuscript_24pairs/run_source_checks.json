@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "parent_seed_pairs": 24,
+  "initial_networks": 4,
+  "seeds_per_initial_network": 6,
+  "unique_recorded_runs": 132,
+  "main_method_runs": 48,
+  "ablation_method_runs": 120,
+  "shared_main_ablation_runs": 36,
+  "checked_endpoint_rows": 336,
+  "maximum_endpoint_cost_error": 4.440892098500626e-16,
+  "archive_sha256": "ee4a192096fb2c0345347560d955ca08e491462ff1974aa37a5cab6a6a74c207",
+  "source_index_sha256": "e6baa3e76fa72f4685bf99706ec034074cbbb1cccdcc0a05e486c1d767cf6842",
+  "initial_network_sha256": {
+    "mumford1_new_01": "5f1009bdd77c776787716497f2e39bae73b84353a23c4025e398d46c4878c313",
+    "mumford1_new_02": "b729b3c7f422d71de38733baa35ca524e1b7616ce24f4e55cc63b48dc150011e",
+    "mumford1_new_03": "aefff71d63d3da1dc699a329583ecfbc15478918c0d6f5390511d81b8f2f61f7",
+    "mumford1_reference_lineplan": "4144389e4c3cfc993c9b4ffdc7973a0c0c6f0cc07ea9b6d76e1dea5994b94e32"
+  },
+  "scope": "Source-record identity, configuration, starting-network and saved-endpoint mapping. No optimization rerun or new route-cost evaluation."
+}

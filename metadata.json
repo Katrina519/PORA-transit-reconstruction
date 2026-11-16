@@ -54,7 +54,6 @@
     "path": "data/manuscript_24pairs",
     "verification_script": "code/verify_24pair_records.py",
     "record_check_status": "PASS_RECORD_CONSISTENCY",
-    "independent_rerun_provenance": "pending_original_logs",
     "mumford1_mean_reduction_percent": {
       "120s": 13.056692684701426,
       "8round": 1.8466126087000216
@@ -63,6 +62,10 @@
     "mumford1_initial_networks": 4,
     "mumford1_pairs_per_initial_network": 6,
     "source_workbook_sha256": "f5f89c4f05ff9df7f93f2b6f9ba95ff5cbdf97f180afe1ca3750d6f5319b452e",
-    "version": "20261116_v36"
+    "version": "20261116_v36",
+    "run_source_mapping_status": "PASS_RUN_SOURCE_MAPPING",
+    "run_source_index": "data/manuscript_24pairs/run_sources.csv",
+    "run_source_archive": "data/manuscript_24pairs/run_records.zip",
+    "source_documentation_version": "20261116_v38"
   }
 }

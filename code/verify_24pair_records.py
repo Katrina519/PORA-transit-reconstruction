@@ -87,7 +87,7 @@ def verify():
         "pora_reconstruction_tasks_recorded": 9600, "feasible_proposals": feasible, "positive_proposals": positive,
         "method_means": means,
         "scope": "Saved-record, key, component, count and checkpoint checks; no new optimization or independent route-cost replay.",
-        "independent_rerun_provenance": "Pending original logs; this check does not establish a fresh independently rerun batch.",
+        "run_source_mapping": "See run_sources.csv and run the separate code/verify_run_sources.py check.",
         "input_sha256": {name: hashlib.sha256((DATA / name).read_bytes()).hexdigest() for name in filenames}
     }
 

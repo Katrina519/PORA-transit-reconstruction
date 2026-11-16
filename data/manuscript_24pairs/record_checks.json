@@ -41,7 +41,7 @@
     }
   },
   "scope": "Saved-record, key, component, count and checkpoint checks; no new optimization or independent route-cost replay.",
-  "independent_rerun_provenance": "Pending original logs; this check does not establish a fresh independently rerun batch.",
+  "run_source_mapping": "See run_sources.csv and run the separate code/verify_run_sources.py check.",
   "input_sha256": {
     "mandl_mumford0_24pairs.csv": "77a3158f954f52f4e1028cc78e9be0485d8019172b22ae4da5c1c2ed6de32eff",
     "main24.csv": "45d6e97837506e3fe68550de081910ab980c17e3e7bb78f7928abb9abb0d491b",

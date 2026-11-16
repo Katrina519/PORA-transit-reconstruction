@@ -8,7 +8,10 @@
     "old_main_20261112": 6,
     "new_3parents_20261115": 18
   },
-  "author_statement": "The author describes the 24 pairs as independent reruns.",
-  "provenance_status": "Fresh rerun logs resolving the workbook/archive mapping have not been supplied.",
-  "statistics_scope": "Conditional one-sided probabilities for these records; pair selection and post-hoc directional testing are not adjusted for."
+  "provenance_status": "All reported Mumford1 endpoints are linked to published original run files and configurations in run_sources.csv and run_records.zip.",
+  "statistics_scope": "Conditional one-sided probabilities for these records; pair selection and post-hoc directional testing are not adjusted for.",
+  "source_manifest": "run_sources.csv",
+  "source_record_archive": "run_records.zip",
+  "source_verifier": "code/verify_run_sources.py",
+  "mapping_scope": "Record identity and numerical correspondence. Matching archived records does not determine how the reporting pair set was chosen."
 }
