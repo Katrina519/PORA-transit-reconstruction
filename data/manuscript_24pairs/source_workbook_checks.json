@@ -1,0 +1,56 @@
+{
+  "source_workbook": "Mumford1 final 24-pair workbook supplied 2026-11-16",
+  "source_sha256": "f5f89c4f05ff9df7f93f2b6f9ba95ff5cbdf97f180afe1ca3750d6f5319b452e",
+  "status": "PASS_RECORD_CONSISTENCY",
+  "parent_counts": {
+    "mumford1_new_01": 6,
+    "mumford1_new_02": 6,
+    "mumford1_new_03": 6,
+    "mumford1_reference_lineplan": 6
+  },
+  "endpoint_rows": {
+    "main": 96,
+    "ablation": 240
+  },
+  "main_checkpoints": 1968,
+  "endpoint_max_cost_error": 6.661338147750939e-16,
+  "source_archive_match_errors": {
+    "main": {
+      "cost": 6.661338147750939e-16,
+      "P_minutes": 7.105427357601002e-15,
+      "O_oneway_minutes": 0.0,
+      "last_completed_seconds": 1.1368683772161603e-13,
+      "total_online_seconds": 1.1368683772161603e-13
+    },
+    "ablation": {
+      "cost": 6.661338147750939e-16,
+      "P_minutes": 7.105427357601002e-15,
+      "O_oneway_minutes": 0.0,
+      "last_completed_seconds": 1.1368683772161603e-13,
+      "total_online_seconds": 1.1368683772161603e-13
+    }
+  },
+  "raw_mechanism_source_sha256": {
+    "mumford1_new_01_3111_full.json": "024606af160bcca214d5455a0b1a39bf97fff92f90cfc9d25e7835ffe2934876",
+    "mumford1_new_01_3114_full.json": "066c71c5f82497a1f4bc57e07cfd90b7b8021662e1d34f10d19ad74d6f7d1922",
+    "mumford1_new_01_3115_full.json": "a15a51811066d955a56a701781441d706fe70dadebb3b2992064b1b402cddf1f",
+    "mumford1_new_01_3116_full.json": "4eb3c0ea4d5dc46d86d4d164818a1afafff75deedee05b160ed6fb6cf5d7dabf",
+    "mumford1_new_01_3117_full.json": "1ea349ce6c672bfb1159c2843de4e6ca19b0de83446719a3211a6ae8217c0575",
+    "mumford1_new_01_3119_full.json": "fb186cc1e079b85c3e0be54cab09a564cfe94eecee156c2a0d1374e0baa5b29f",
+    "mumford1_new_02_3121_full.json": "cb6c7437c109765d63610e3e8d143b989de1733f15db52354b1e57b43d11ab72",
+    "mumford1_new_02_3123_full.json": "f44c0c5ea1e10bdeed451ac24523cba44c00d5179b5fc822c5031c6c3c48b694",
+    "mumford1_new_02_3125_full.json": "11988d2ed951fe1b2ce358a6044b3c3e5342e34b66bf9e303cfc45ccdf850008",
+    "mumford1_new_02_3127_full.json": "55d19f2d5f3685c50a7fe60c8a0ea1a564e2214adffe826863225aeb1a49e3eb",
+    "mumford1_new_02_3129_full.json": "b7342951b5669c485a3a7e395cf9bbc42fb1fec13745a54296086a2572107136",
+    "mumford1_new_02_3130_full.json": "f782e53a45122b4947d7ee953c3d0a38cb359881eff4ef3643a56730acb5cf77",
+    "mumford1_new_03_3132_full.json": "960cfd3207bdf9923a528a4d2e335336e46ad95778cb067b81da5f2a259ae84b",
+    "mumford1_new_03_3133_full.json": "424f690bf9e5cc3e84c29e8131bae046112bd8577244ce716579cce93233e64d",
+    "mumford1_new_03_3135_full.json": "202937cfaa1ae0fdd35bcbc1adcf43e7e524987832065346842e8f0b3ce99706",
+    "mumford1_new_03_3138_full.json": "11750d5fa3ea617dd9abfbe88e45b597908270718595ccbd9613c19f65dab10c",
+    "mumford1_new_03_3139_full.json": "51bb113fad56890b1958a3bba56eebb4af54ab8e17eee84be64e2f08380da81f",
+    "mumford1_new_03_3140_full.json": "f62fe583416461fb06b96b8c45aae89e0d8ad54f720de594e33c2eeabb6a5964",
+    "\u539f\u59cb\u8fd0\u884c.jsonl": "461523ab8e249093765140eed5a391d563b28ff696f7181c3bf16f030387a100"
+  },
+  "provenance": "Workbook says selected latest 24 seeds, six per initial network. All endpoint rows match existing archived runs. User reports independent runs; independent rerun provenance is not established by this numeric match.",
+  "test_scope": "Exact one-sided signed-rank probabilities conditional on the supplied paired records; selection and post-hoc tail choice are not accounted for by the test."
+}

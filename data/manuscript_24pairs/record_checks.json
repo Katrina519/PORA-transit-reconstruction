@@ -14,8 +14,8 @@
   "ablation_methods": 5,
   "endpoints": 2,
   "pora_reconstruction_tasks_recorded": 9600,
-  "feasible_proposals": 9463,
-  "positive_proposals": 3385,
+  "feasible_proposals": 9475,
+  "positive_proposals": 3430,
   "method_means": {
     "mandl": {
       "nea": 0.577857089539369,
@@ -29,14 +29,14 @@
     },
     "mumford1": {
       "8round": {
-        "author": 1.1483174562454224,
-        "full": 1.1274963368972142,
-        "mean_reduction_percent": 1.8131849546453487
+        "author": 1.1491851011912029,
+        "full": 1.1279641042153041,
+        "mean_reduction_percent": 1.8466126087000119
       },
       "120s": {
-        "author": 1.4405590395132701,
-        "full": 1.2516585687796276,
-        "mean_reduction_percent": 13.112997492797481
+        "author": 1.4385905762513478,
+        "full": 1.250758225719134,
+        "mean_reduction_percent": 13.056692684701417
       }
     }
   },
@@ -44,10 +44,10 @@
   "independent_rerun_provenance": "Pending original logs; this check does not establish a fresh independently rerun batch.",
   "input_sha256": {
     "mandl_mumford0_24pairs.csv": "77a3158f954f52f4e1028cc78e9be0485d8019172b22ae4da5c1c2ed6de32eff",
-    "main24.csv": "5c59987583c8f086af5578a340709eb7f021f25a0e9488f4838cb179edd9c3ee",
-    "ablation24.csv": "550d3bedae895ac16128b8fc2e25fb91bb298239a8beb55b83c56da6bdd5c417",
-    "main24_checkpoints.csv": "f3b09f4d3d9edd858d87bd552fa918b1b19966ff9df9ab59d7c9624df042e407",
-    "mechanisms24.csv": "15bd4cb54b2733a5579d9681a301050c0e22d0e184b8f6c85ceb1ae10b44226f",
-    "overhead24.json": "766a0487f5d2b131d97444dc9c9214e34193eefe65eb7f15da477c876d6e7c4f"
+    "main24.csv": "45d6e97837506e3fe68550de081910ab980c17e3e7bb78f7928abb9abb0d491b",
+    "ablation24.csv": "25284c23d0c24058a9913ac09113c5ecc0c4783efc9806b633b1e066ae7b1b8c",
+    "main24_checkpoints.csv": "f24d59ab63ccb08e27cc3e2753541e58a1dbcf2f3becfc5ddbc396b83427469c",
+    "mechanisms24.csv": "4cbf11484d75353de1360cc8c8a4f5512f4468754a032d4844fa39d407608d32",
+    "overhead24.json": "89a147b8e616ea926502bf6081a09950acbff14c667a374600efb4383fecc995"
   }
 }

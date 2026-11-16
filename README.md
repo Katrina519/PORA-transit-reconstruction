@@ -4,11 +4,11 @@ Version v1.0.0 accompanies **Prior-guided online allocation of route-reconstruct
 
 ## Current manuscript record check - 2026-11-16
 
-The current numerical comparison uses **24 paired runs per network** for Mandl, Mumford0 and Mumford1. Start with [`data/manuscript_24pairs/README.md`](data/manuscript_24pairs/README.md) and run `python code/verify_24pair_records.py`.
+The 2026-11-16 final-workbook update uses **24 paired runs per network** for Mandl, Mumford0 and Mumford1. Start with [`data/manuscript_24pairs/README.md`](data/manuscript_24pairs/README.md) and run `python code/verify_24pair_records.py`.
 
-The record checks reproduce **3.42%** and **5.23%** mean cost reductions for Mandl and Mumford0, and **13.11% at 120 s / 1.81% after eight rounds** for Mumford1. They verify 1,968 Mumford1 main checkpoints and all 96 main endpoint records; the five-configuration ablation contains 240 endpoint records. Raw logs establishing the author's newly stated independent rerun provenance remain pending; the linked data README explains the scope.
+The record checks reproduce **3.42%** and **5.23%** mean cost reductions for Mandl and Mumford0, and **13.06% at 120 s / 1.85% after eight rounds** for Mumford1. They verify 1,968 Mumford1 main checkpoints and all 96 main endpoint records; the five-configuration ablation contains 240 endpoint records. Raw logs establishing the author's newly stated independent rerun provenance remain pending; the linked data README explains the scope.
 
-The release page provides an additional `PORA_24pair_record_checks_20261116_v35.zip` asset with the same records and checker. Original release assets and numerical records are retained. The sections below document the original v1.0.0 snapshot; their ten-seed and six-seed summaries are historical, not the current manuscript's numerical tables.
+The release page provides an additional `PORA_24pair_data_20261116_v36.zip` asset with the same records and checker. Mumford1 now uses four initial networks with six paired seeds per initial network. Reproduce its current Figure 3 with `python code/figures/Figure3_current24/draw_figure3.py`. Original release assets and numerical records are retained. The sections below document the original v1.0.0 snapshot; their ten-seed and six-seed summaries are historical, not the current manuscript's numerical tables.
 
 ## Original v1.0.0 contents and manuscript mapping
 

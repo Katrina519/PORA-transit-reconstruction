@@ -39,6 +39,8 @@ def verify():
         means[city] = {"nea": nea, "full": full, "mean_reduction_percent": 100 * (nea - full) / nea}
     pair_keys = {key(r) for r in main}
     assert len(pair_keys) == 24
+    assert set(Counter(parent for parent, seed in pair_keys).values()) == {6}
+    assert len({parent for parent, seed in pair_keys}) == 4
     assert len(main) == len({(*key(r), r["method"], r["endpoint"]) for r in main}) == 96
     assert len(ablation) == len({(*key(r), r["method"], r["endpoint"]) for r in ablation}) == 240
     for records, methods in [(main, ("author", "full")), (ablation, ("author", "full", "count", "ridge", "nogain"))]:
@@ -68,8 +70,8 @@ def verify():
     feasible = int(sum(float(r["feasible_proposals"]) for r in mechanisms))
     positive = int(sum(float(r["positive_proposals"]) for r in mechanisms))
     overhead = json.loads((DATA / "overhead24.json").read_text(encoding="utf-8"))
-    assert feasible == overhead["feasible_proposals"] == 9463
-    assert positive == overhead["positive_proposals"] == 3385
+    assert feasible == overhead["feasible_proposals"] == 9475
+    assert positive == overhead["positive_proposals"] == 3430
     assert overhead["executed_neural_tasks"] == 24 * 400 == 9600
     means["mumford1"] = {}
     for endpoint in ("8round", "120s"):

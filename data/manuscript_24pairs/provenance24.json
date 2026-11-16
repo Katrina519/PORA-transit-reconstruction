@@ -1,19 +1,14 @@
 {
-  "source_workbook_sha256": "81a2fc2cbb6e9fa204d36d380d0a7a6bea172aef19685f307a1e2891b725fa01",
-  "selected_pairs": 24,
-  "pairs_by_parent": {
-    "mumford1_new_01": 8,
-    "mumford1_new_02": 3,
-    "mumford1_new_03": 5,
-    "mumford1_reference_lineplan": 8
+  "workbook_sha256": "f5f89c4f05ff9df7f93f2b6f9ba95ff5cbdf97f180afe1ca3750d6f5319b452e",
+  "initial_networks": 4,
+  "pairs_per_initial_network": 6,
+  "numerical_source": "The supplied workbook endpoint values match the corresponding saved run archive.",
+  "workbook_annotation": "Latest 24 selected seeds, six per initial network; source-batch columns removed; no aggregate statistics or tests recomputed in the workbook.",
+  "source_mapping": {
+    "old_main_20261112": 6,
+    "new_3parents_20261115": 18
   },
-  "main_pairs_by_batch": {
-    "new_3parents_20261115": 16.0,
-    "old_main_20261112": 8.0
-  },
-  "workbook_records_match_completed_40_pair_archive": true,
-  "reporting_cohort_selection_was_not_prespecified_in_frozen_30_pair_protocol": true,
-  "all_40_pair_records_retained_in_supporting_data": true,
-  "one_sided_and_holm_p_values_are_nominal_for_selected_cohort": true,
-  "not_evidence_of_24_fresh_independent_reruns": true
+  "author_statement": "The author describes the 24 pairs as independent reruns.",
+  "provenance_status": "Fresh rerun logs resolving the workbook/archive mapping have not been supplied.",
+  "statistics_scope": "Conditional one-sided probabilities for these records; pair selection and post-hoc directional testing are not adjusted for."
 }

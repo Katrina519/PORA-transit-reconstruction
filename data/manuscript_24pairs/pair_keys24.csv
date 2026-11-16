@@ -1,7 +1,5 @@
-﻿parent,seed
+parent,seed
 mumford1_new_01,3111
-mumford1_new_01,3112
-mumford1_new_01,3113
 mumford1_new_01,3114
 mumford1_new_01,3115
 mumford1_new_01,3116
@@ -9,7 +7,11 @@ mumford1_new_01,3117
 mumford1_new_01,3119
 mumford1_new_02,3121
 mumford1_new_02,3123
+mumford1_new_02,3125
+mumford1_new_02,3127
 mumford1_new_02,3129
+mumford1_new_02,3130
+mumford1_new_03,3132
 mumford1_new_03,3133
 mumford1_new_03,3135
 mumford1_new_03,3138
@@ -17,9 +19,7 @@ mumford1_new_03,3139
 mumford1_new_03,3140
 mumford1_reference_lineplan,3011
 mumford1_reference_lineplan,3013
-mumford1_reference_lineplan,3014
 mumford1_reference_lineplan,3015
 mumford1_reference_lineplan,3016
-mumford1_reference_lineplan,3018
 mumford1_reference_lineplan,3019
 mumford1_reference_lineplan,3020
