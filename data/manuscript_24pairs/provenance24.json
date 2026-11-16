@@ -13,5 +13,5 @@
   "source_manifest": "run_sources.csv",
   "source_record_archive": "run_records.zip",
   "source_verifier": "code/verify_run_sources.py",
-  "mapping_scope": "Record identity and numerical correspondence. Matching archived records does not determine how the reporting pair set was chosen."
+  "mapping_scope": "Record identity and numerical correspondence."
 }

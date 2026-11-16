@@ -37,6 +37,6 @@ The original search wrappers are in `code/archive/work/`. Their environment, thi
 
 ## Downloads and earlier versions
 
-The [v1.0.0 release page](https://github.com/Katrina519/PORA-transit-reconstruction/releases/tag/v1.0.0) provides **PORA_24pair_sources_20261116_v38.zip**, containing the current data, source mapping and verifiers. Earlier assets remain available for traceability. Earlier ten-seed and six-seed summaries are documented only in [the original snapshot](ORIGINAL_V1_SNAPSHOT.md); they are not the current manuscript tables.
+The [v1.0.0 release page](https://github.com/Katrina519/PORA-transit-reconstruction/releases/tag/v1.0.0) provides **PORA_24pair_sources_20261116_v41.zip**, containing the current data, source mapping and verifiers. Earlier assets remain available for traceability. Earlier ten-seed and six-seed summaries are documented only in [the original snapshot](ORIGINAL_V1_SNAPSHOT.md); they are not the current manuscript tables.
 
 Code is GPL-3.0; original study data are CC BY 4.0. See LICENSE and DATA_LICENSE.txt. Third-party model and benchmark rights remain with their respective owners.

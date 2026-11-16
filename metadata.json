@@ -66,6 +66,6 @@
     "run_source_mapping_status": "PASS_RUN_SOURCE_MAPPING",
     "run_source_index": "data/manuscript_24pairs/run_sources.csv",
     "run_source_archive": "data/manuscript_24pairs/run_records.zip",
-    "source_documentation_version": "20261116_v38"
+    "source_documentation_version": "20261116_v41"
   }
 }
